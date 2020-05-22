@@ -14,7 +14,6 @@ export const Image = ({
   extraSmall,
   small,
   medium,
-  large,
   fullWidth,
   actualSize,
   squareBig,
